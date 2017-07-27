@@ -4,6 +4,8 @@ html,body {
   font-size: 18px;
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/40/a0/ac/40a0ac00bceef971de481d2605b807b1.jpg");
   color: rgb(195, 218, 244);
+  background-repeat:no-repeat;
+  background-size:cover;  
 }
 .half{
   opacity: 0.5;
