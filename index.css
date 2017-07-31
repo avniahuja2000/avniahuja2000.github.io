@@ -36,7 +36,7 @@ h1,h2 {
   margin: 0.4em 0;
   opacity:1;
 }
-h1 { font-size: 4em;
+h1 { font-size: 5em;
   margin-left:700px;
   color: rgb(235, 150,14);
   font-family: 'Amatic SC', cursive;
@@ -47,7 +47,7 @@ h2 {
   margin-left:700px;
 }
 #gwc{
-  margin-top:100px;
+  margin-top:50px;
   margin-left:50px;
   font-size:35px;
   color:black;
@@ -55,7 +55,7 @@ h2 {
 font-family: 'Amatic SC', cursive;
 }
 #coding{
-  margin-left: 600px;
+  margin-left: 650px;
 }
 #knowledge{
   margin-left:870px;
@@ -72,8 +72,10 @@ font-family: 'Amatic SC', cursive;
   margin-top:-25px;
 }
 #quote{
-  margin-left:370px;
+  margin-left:300px;
+  margin-top:-15px;
   color:rgb(210,105,30);
+  opacity:1;
 }
 #atBrearley{
   font-size:30px;
@@ -107,10 +109,10 @@ font-family: 'Amatic SC', cursive;
 a{
   margin-top:100px;
   padding: 4px 20px;
-  font-size: 30px;
+  font-size: 35px;
   text-decoration:none;
 font-family: 'Amatic SC', cursive;
-  color:rgb(102, 30, 99);
+  color:black;
 
 }
 div{
@@ -148,15 +150,16 @@ p2{
 font-family: 'Amatic SC', cursive;
 }
 i{
-  margin-left:-10px;
+  margin-left:-20px;
   font-size:30px;
-  margin-top:0px;
-  font-family:'Covered By Your Grace', cursive;
+  margin-top:-30px;
+  font-family: 'Kalam', cursive;
   color:rgb(210,105,30);
 }
 #author{
   margin-left:600px;
   color:black;
+  font-size:30px;
 }
 #socialmed{
   margin-top:0px;
