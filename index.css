@@ -79,7 +79,7 @@ font-family: 'Amatic SC', cursive;
 }
 #atBrearley{
   font-size:30px;
-  margin-top:-30px;
+  margin-top:-80px;
 }
 #out{
   margin-top:-20px;
@@ -100,6 +100,7 @@ font-family: 'Amatic SC', cursive;
 #home{
   margin-top:600px;
   font-size:30px;
+  margin-bottom:200px;
 }
 #home2{
   margin-top:100px;
@@ -172,4 +173,33 @@ i{
 }
 #socialmed.hover{
   color:rgb(210,105,30);
+}
+#nothingyouwant{
+  margin-top:-35px;
+  margin-left:620px;
+  font-size:25px;
+  font-family: 'Kalam', cursive;
+  color:rgb(210,105,30);
+}
+#bill{
+  margin-left:400px;
+  color:black;
+  font-size:25px;
+}
+
+#extratitle{
+  margin-top:0px;
+  margin-bottom:60px;
+}
+
+#foodielink{
+  margin-left:-20px;
+  font-size:25px;
+  margin-right:-20px;
+}
+#asterisk{
+  color:rgb(210,105,30);
+  font-size:25px;
+  margin-top:-10px;
+  margin-left:450px
 }
